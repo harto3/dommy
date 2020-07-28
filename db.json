@@ -3,27 +3,32 @@
     {
       "id": 1,
       "name": "Umbi",
-      "slug": "umbi"
+      "slug": "umbi",
+      "image": "https://www.inform.kz/fotoarticles/20190305145739.jpg"
     },
     {
       "id": 2,
       "name": "Jamur",
-      "slug": "jamur"
+      "slug": "jamur",
+      "image": "https://www.quickanddirtytips.com/sites/default/files/styles/article_main_image/public/images/2142/shutterstock_1054392245.jpg?itok=UNhRw4af"
     },
     {
       "id": 3,
       "name": "Sayuran Daun",
-      "slug": "sayuran-daun"
+      "slug": "sayuran-daun",
+      "image": "https://www.jessicagavin.com/wp-content/uploads/2019/02/types-of-lettuce-2-600x900.jpg"
     },
     {
       "id": 4,
       "name": "Sayuran Buah",
-      "slug": "sayuran-buah"
+      "slug": "sayuran-buah",
+      "image": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/1/7/6/2/922671-1-eng-GB/High-cost-of-fruit-and-vegetables-linked-to-higher-body-fat-in-young-children-Study_wrbm_large.jpg"
     },
     {
       "id": 5,
       "name": "Sayuran Bunga",
-      "slug": "sayuran-bunga"
+      "slug": "sayuran-bunga",
+      "image": "https://juicing-for-health.com/wp-content/uploads/2015/06/cruciferous-vegetables.jpg"
     }
   ],
   "products": [
