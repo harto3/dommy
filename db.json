@@ -1,43 +1,63 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "categories": [
+    {
+      "id": 1,
+      "name": "Umbi",
+      "slug": "umbi"
+    },
+    {
+      "id": 2,
+      "name": "Jamur",
+      "slug": "jamur"
+    },
+    {
+      "id": 3,
+      "name": "Sayuran Daun",
+      "slug": "sayuran-daun"
+    },
+    {
+      "id": 4,
+      "name": "Sayuran Buah",
+      "slug": "sayuran-buah"
+    },
+    {
+      "id": 5,
+      "name": "Sayuran Bunga",
+      "slug": "sayuran-bunga"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "products": [
     {
       "id": 1,
+      "category_id": 3,
       "name": "Bayam 1 Kg",
       "price": 6000,
       "image": "https://s3-ap-southeast-1.amazonaws.com/fitshop-production/wp-content/uploads/2020/04/20122249/Bayam-Hijau.jpeg"
     },
     {
       "id": 2,
+      "category_id": 5,
       "name": "Brokoli 1 Kg",
       "price": 35000,
       "image": "https://fitshop-production.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2020/04/19200450/Brokoli.jpg"
     },
     {
       "id": 3,
+      "category_id": 3,
       "name": "Pak Choy 500 Gr",
       "price": 8000,
       "image": "https://fitshop-production.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2020/06/02153114/Pak-Choy-200x200.jpg"
     },
     {
       "id": 4,
+      "category_id": 4,
       "name": "Cabai Rawit 1 Kg",
       "price": 22500,
       "image": "https://fitshop-production.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2020/04/20111311/Fitshop-Cabe-Rawit-250gr-200x200.png"
     },
     {
       "id": 5,
+      "category_id": 1,
       "name": "Bawang Putih 250 Gr",
       "price": 6250,
       "image": "https://fitshop-production.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2020/04/20143551/FM-Bawang-Putih-200x200.jpg"
