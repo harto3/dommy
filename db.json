@@ -34,7 +34,7 @@
   "products": [
     {
       "id": 1,
-      "category_id": 3,
+      "categoryId": 3,
       "name": "Bayam 1 Kg",
       "slug": "bayam-1-kg",
       "price": 6000,
@@ -42,7 +42,7 @@
     },
     {
       "id": 2,
-      "category_id": 5,
+      "categoryId": 5,
       "name": "Brokoli 1 Kg",
       "slug": "brokoli-1-kg",
       "price": 35000,
@@ -50,7 +50,7 @@
     },
     {
       "id": 3,
-      "category_id": 3,
+      "categoryId": 3,
       "name": "Pak Choy 500 Gr",
       "slug": "pak-choy-500-gr",
       "price": 8000,
@@ -58,7 +58,7 @@
     },
     {
       "id": 4,
-      "category_id": 4,
+      "categoryId": 4,
       "name": "Cabai Rawit 1 Kg",
       "slug": "cabai-rawit-1-kg",
       "price": 22500,
@@ -66,7 +66,7 @@
     },
     {
       "id": 5,
-      "category_id": 1,
+      "categoryId": 1,
       "name": "Bawang Putih 250 Gr",
       "slug": "bawang-putih-250-gr",
       "price": 6250,
